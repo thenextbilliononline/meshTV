@@ -30,6 +30,11 @@ Script link and explanation go here
 
 ## How to find other content on the network
 
+## Media Browsing
+
+### Kodi
+### Plex
+
 ## Long-term:
 
 ### Kodi Plugin
