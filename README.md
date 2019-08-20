@@ -25,15 +25,14 @@ Script link and explanation go here
 ## Media Management
 
 ### Radarr/Lidarr/Sonarr
+The dock starter suite will be used for media management.
 
 #### Installation
 
 ## How to find other content on the network
 
 ## Media Browsing
-
-### Kodi
-### Plex
+Federation is an open question and essential to this project. Probably a DHT (but don't say blockchain :P). 
 
 ## Long-term:
 
