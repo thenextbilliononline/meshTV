@@ -4,7 +4,7 @@ Tools for sharing content on a decentralized network.
 
 [x] VB image with cjdns+ipfs+kodi  
 [x] mesh network configuration (ovpn + cjdns)  
-[ ] media tracker and organizer (radarr, lidarr, sonarr)  
+[x] media tracker and organizer (radarr, lidarr, sonarr)  
 [ ] meta/media data federation (how my server finds content on yours)  
 [x] streaming server federation (build out ipfs back-end, let ipfs handle that nonsense)  
 [ ] streaming infrastructure (ipfs/cjdns kodi plugin)  
